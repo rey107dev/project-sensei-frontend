@@ -1,11 +1,16 @@
-# React + Vite
+# Project Sensei FE 🚀
 
-Use node version 18+
+This repository hold the FE of Project Sensei Web App.
 
-Intall dependencies
-npm install
+## Clone project to local
 
-Create .env file
+## Intall node version
+   node 18^
+   
+## Intall depencdencies
+   npm intall
 
-Run local environment
-npm run start
+## Add .env file
+
+## Run project locally
+   npm run start
