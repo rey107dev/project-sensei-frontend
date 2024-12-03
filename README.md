@@ -8,7 +8,7 @@ This repository hold the FE of Project Sensei Web App.
    node 18^
    
 ## Intall depencdencies
-   npm intall
+   npm install
 
 ## Add .env file
 
